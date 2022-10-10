@@ -6,7 +6,7 @@ Black Jack
 - 1 Deck
 - Bankroll for betting.
 
-- The goal is to get 21 or be closer to the dealer to 21.
+- The goal is to get 21 or be closer than the dealer to 21.
 
 -- Starting
 - Player places bet.
